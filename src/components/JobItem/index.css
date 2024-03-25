@@ -1,0 +1,39 @@
+.container {
+  background-color: #272727;
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 15px;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
+
+.img {
+  width: 80px;
+  height: 80px;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.rating-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.star {
+  color: #fbbf24;
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+.para {
+  color: #ffffff;
+  font-family: 'Roboto';
+}

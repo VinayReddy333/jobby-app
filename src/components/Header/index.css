@@ -1,0 +1,22 @@
+nav.container {
+  background-color: #272727;
+  padding: 10px;
+}
+
+.un-order {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.butt {
+  color: #ffffff;
+  background-color: #b6c5ff;
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  height: 40px;
+  width: 100px;
+}
